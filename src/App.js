@@ -16,7 +16,7 @@ function App() {
     },
     {
       nome: 'Erick Silva',
-      idade: '2 1',
+      idade: '21',
       origem: 'Estados Unidos'
     }
   ]
